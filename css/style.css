@@ -333,7 +333,7 @@ span {
     text-align: start;
 }
 .duty ul li::before {
-    content: "\f058"; 
+    content: "\f111"; 
     font-family: FontAwesome; 
     margin-right: 10px; 
     color:var(--primary-color); 
