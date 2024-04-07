@@ -564,7 +564,7 @@ span {
     
     .radiant,
     .viswa,
-    .crown,.skillup{
+    .crown,.skillup,.victoria{
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -581,9 +581,8 @@ span {
         transform: scale(1.2);
     }
     .cloz{
-        display: flex;
+        display: flex; 
     }
-
     .wwff{
         display: flex;
         flex-direction: column;
