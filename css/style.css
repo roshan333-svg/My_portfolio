@@ -6,7 +6,6 @@
 :root {
     /* Colors */
     --primary-color: #02B3BF;
-    /* --primary-color: rgb(2, 179, 191); */
     --black-color: #000000;
     --white-color:#ffffff;
     
@@ -395,7 +394,7 @@ button:hover img {
     font-family: var(--main-font);
     color: var(--primary-color);
     padding: 0 9rem;
-    gap: 3rem;
+    gap: 4rem;
 }
 .contact_me{
     display: flex;
