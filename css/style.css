@@ -395,6 +395,7 @@ button:hover img {
     font-family: var(--main-font);
     color: var(--primary-color);
     padding: 0 9rem;
+    gap: 3rem;
 }
 .contact_me{
     display: flex;
